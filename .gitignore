@@ -1,0 +1,23 @@
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# Temporary compilation file
+**/sources.txt
+
+# Temporary files created by the IDE
+*.class
+*.dat
