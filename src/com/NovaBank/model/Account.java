@@ -2,11 +2,6 @@ package com.novabank.model;
 
 import java.io.Serializable;
 
-/**
- * Account class represents a bank account.
- * It stores account number, customer ID,
- * account type and current balance.
- */
 public class Account implements Serializable {
 
     private static final long serialVersionUID = 1L;
