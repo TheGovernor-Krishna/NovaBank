@@ -4,12 +4,6 @@ import java.time.LocalDateTime;
 import java.io.Serializable;
 import java.time.format.DateTimeFormatter;
 
-/**
- * Transaction class stores every banking
- * transaction performed by a customer.
- * It records transaction type, amount,
- * balance after transaction and date/time.
- */
 public class Transaction implements Serializable {
 
     private static final long serialVersionUID = 1L;
