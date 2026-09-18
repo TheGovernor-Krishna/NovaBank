@@ -2,11 +2,6 @@ package com.novabank.model;
 
 import java.io.Serializable;
 
-/**
- * Customer class stores all customer-related
- * information such as customer ID, name,
- * phone number, email, address and password.
- */
 public class Customer implements Serializable {
 
     private static final long serialVersionUID = 1L;
