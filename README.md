@@ -1,7 +1,4 @@
 # 🏦 Banking Information System
-
-A console-based **Banking Information System** developed using **Core Java** as part of a Java Development Internship. The project simulates the core functionalities of a real-world banking application by implementing secure customer management, account operations, transaction processing, and persistent data storage.
-
 The primary objective of it is to provide a practical understanding of **Object-Oriented Programming (OOP)**, **Java Collections**, **File Handling**, **Serialization**, and **Exception Handling** through a modular and menu-driven banking application.
 
 ---
